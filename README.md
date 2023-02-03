@@ -8,6 +8,7 @@ This project was made to illustrate the skills I've learnt in authentification a
 
 1. Fork this repository
 1. Ensure you have node installed on your local machine `node -v`
+1. Run `npm install` to download the required dependencies
 1. Set up your own OAuth app on Github using these [instructions](https://docs.readme.com/ent/docs/setting-up-github-oauth)
 1. Create a .env file `touch .env`
 1. Save your GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET in this file
